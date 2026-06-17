@@ -1,0 +1,5 @@
+# macOS
+.DS_Store
+
+# 旧版本备份（版本历史见 README）
+*.txt
